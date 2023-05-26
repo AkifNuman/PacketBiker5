@@ -14,6 +14,11 @@
 		{
 			"Name": "ChaosVehiclesPlugin",
 			"Enabled": true
+		},
+		{
+			"Name": "EasyAdsPro",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/75a64f8d7e4a46d99bb9721375bf23c4"
 		}
 	]
 }
