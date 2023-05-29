@@ -1,8 +1,0 @@
-{
-	"BuildId": "23058290",
-	"Modules": 
-	{
-		"EasyAds": "UnrealEditor-EasyAds.dylib",
-		"EasyAdsEditor": "UnrealEditor-EasyAdsEditor.dylib"
-	}
-}
